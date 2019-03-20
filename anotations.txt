@@ -1,0 +1,7 @@
+Fórmula para calcular o consumo de energia.
+Para calcular o consumo de um equipamento multiplique sua potência pelo tempo de funcionamento em horas.
+consumo = W.h
+	=Wh
+Next: transform to Kwh.
+consumo = W.h/1000
+
