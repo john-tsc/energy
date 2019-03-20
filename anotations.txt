@@ -4,4 +4,3 @@ consumo = W.h
 	=Wh
 Next: transform to Kwh.
 consumo = W.h/1000
-
