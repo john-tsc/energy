@@ -1,6 +1,31 @@
-Fórmula para calcular o consumo de energia.
+O QUE O PROGRAMA DEVERÁ FAZER
+-Ser capaz de insirir um nome.
+	-código.
+	-valor em de consumo (em "W").
+
+-SAÍDA ESPERADA
+	-Mostrar na tela o consumo por equipamento: 
+		-Por hora
+		-Por dia.
+		-Por semana.
+		-Por mês (todo mês será mês comercial (30 dias)).
+		-Por ano.
+		
+	-Mostrar também o consumo total de todos os equipamentos:
+		-Por hora.
+		-Por dia.
+		-Por semana.
+		-Por mês (todo mês será mês comercial (30 dias)).
+		-Por ano.
+
+	-Representar a saída em valores monetários também (real (R$)).
+	-Representar a saída em Watts.
+
+
+-------------------------------------------
+Fórmula para calcular o consumo de energia:
 Para calcular o consumo de um equipamento multiplique sua potência pelo tempo de funcionamento em horas.
 consumo = W.h
-	=Wh
+		=Wh
 Next: transform to Kwh.
-consumo = W.h/1000
+consumo = W.h/1000.
