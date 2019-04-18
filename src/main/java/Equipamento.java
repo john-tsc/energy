@@ -1,5 +1,5 @@
 public class Equipamento {
-    private String nome, categoria;
+    private String nome;
     private int id;
     private double consumo; //Em watts
 
@@ -7,13 +7,11 @@ public class Equipamento {
     public Equipamento() {
     }
 
-    public Equipamento(String nome, String categoria, int id, double consumo) {
+    public Equipamento(String nome, int id, double consumo) {
         this.nome = nome;
-        this.categoria = categoria;
         this.id = id;
         this.consumo = consumo;
     }
-
 
     public String getNome() {
         return this.nome;
@@ -21,14 +19,6 @@ public class Equipamento {
 
     public void setNome(String nome) {
         this.nome = nome;
-    }
-
-    public String getCategoria() {
-        return this.categoria;
-    }
-
-    public void setCategoria(String categoria) {
-        this.categoria = categoria;
     }
 
     public double getConsumo() {

@@ -1,7 +1,7 @@
 O QUE O PROGRAMA DEVERÁ FAZER
 -Ser capaz de insirir um nome.
 	-código.
-	-valor em de consumo (em "W").
+	-valor de consumo (em "W").
 
 -SAÍDA ESPERADA
 	-Mostrar na tela o consumo por equipamento: 
@@ -18,7 +18,7 @@ O QUE O PROGRAMA DEVERÁ FAZER
 		-Por mês (todo mês será mês comercial (30 dias)).
 		-Por ano.
 
-	-Representar a saída em valores monetários também (real (R$)).
+	-Representar a saída em valores monetários também (Real (R$)).
 	-Representar a saída em Watts.
 
 
