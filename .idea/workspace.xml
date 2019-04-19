@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b0d6115-1cd7-4b50-a80d-3efed5f5a176" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/anotations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/anotations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Equipamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Equipamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EquipamentoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EquipamentoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Calculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Calculo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Equipamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Equipamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/EquipamentoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/EquipamentoTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,50 +18,58 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Calculo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="60">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Calculo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Equipamento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="308">
+              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
               <folding>
-                <element signature="e#390#391#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#462#463#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#812#813#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/EquipamentoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>categoria</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,6 +78,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/EquipamentoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Equipamento.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Calculo.java" />
       </list>
     </option>
   </component>
@@ -85,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -111,11 +130,23 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Energy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Energy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Energy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Energy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,6 +169,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="EquipamentoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EquipamentoTest" />
+      <module name="Energy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EquipamentoTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -157,18 +202,20 @@
       <workItem from="1553694344346" duration="600000" />
       <workItem from="1553707317960" duration="628000" />
       <workItem from="1554123204403" duration="792000" />
-      <workItem from="1555613337616" duration="3517000" />
+      <workItem from="1555613337616" duration="6097000" />
+      <workItem from="1555683049955" duration="627000" />
+      <workItem from="1555684053426" duration="3496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12604000" />
+    <option name="totallyTimeSpent" value="19307000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="740" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24772727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25530303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -176,14 +223,15 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Messages" weight="0.3284553" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3284553" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3284553" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3284553" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" />
@@ -203,38 +251,35 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Calculo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Equipamento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="308">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
           <folding>
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/EquipamentoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>

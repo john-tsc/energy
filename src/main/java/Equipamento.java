@@ -21,11 +21,20 @@ public class Equipamento {
         this.nome = nome;
     }
 
+    public int getId() {
+        return id;
+    }
+
     public double getConsumo() {
         return this.consumo;
     }
 
     public void setConsumo(double consumo) {
         this.consumo = consumo;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("ID: " + getId() + "%n" + "Equipamento: " + getNome() + "%n" + "Consumo: " + getConsumo());
     }
 }
