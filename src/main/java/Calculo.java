@@ -1,11 +1,15 @@
 public class Calculo {
+    static final int MIL = 1000;
+
     Equipamento equipamento = new Equipamento();
 
-    public double calculoHora(double potencia, int hora){
-        //consumo por hora
-        double consumo = potencia*hora;
+    public double calculoHora(double potencia, int hora) {
+        //consumo em W/h.
+        double consumo = potencia * hora;
 
-        return ;
+        //transformando em KW//h
+        double kWHora = consumo / MIL;
+        return kWHora;
     }
 
 }

@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b0d6115-1cd7-4b50-a80d-3efed5f5a176" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anotations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/anotations.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Calculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Equipamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Equipamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EquipamentoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EquipamentoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Calculo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Calculo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Equipamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Equipamento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/EquipamentoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/EquipamentoTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Calculo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="120">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -204,12 +197,12 @@
       <workItem from="1554123204403" duration="792000" />
       <workItem from="1555613337616" duration="6097000" />
       <workItem from="1555683049955" duration="627000" />
-      <workItem from="1555684053426" duration="3496000" />
+      <workItem from="1555684053426" duration="3741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19307000" />
+    <option name="totallyTimeSpent" value="19552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="740" extended-state="6" />
@@ -278,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Calculo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
