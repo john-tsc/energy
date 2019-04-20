@@ -10,15 +10,15 @@ O QUE O PROGRAMA DEVERÁ FAZER
 		-Por hora
 		-Por dia.
 		-Por semana.
-		-Por mês (todo mês será mês comercial (30 dias)).
-		-Por ano.
+		-Por mês (todo mês será mês comercial (todos os meses possuião 30 dias)).
+		-Por ano(todos os anos possuirão 365 dias).
 		
 	-Mostrar também o consumo total de todos os equipamentos:
 		-Por hora.
 		-Por dia.
 		-Por semana.
-		-Por mês (todo mês será mês comercial (30 dias)).
-		-Por ano.
+		-Por mês (todo mês será mês comercial (todos os meses possuião 30 dias)).
+		-Por ano(todos os anos possuirão 365 dias).
 
 	-Representar a saída em valores monetários (Real (R$)) e em Watts.
 
