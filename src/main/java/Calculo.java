@@ -8,9 +8,12 @@ public class Calculo {
 
     Equipamento equipamento = new Equipamento();
 
+    public Calculo() {
+    }
+
     public double cconsumoPorHora(double potencia, int hora) {
         //consumo em W/h.
-        double consumoWH = calculoConsumo(potencia,hora);
+        double consumoWH = calculoConsumo(potencia, hora);
 
         //transformando em KW//h
         this.kWHora = consumoWH / MIL;
@@ -19,7 +22,7 @@ public class Calculo {
 
     public double calculoConsumoDia(double potencia, int hora, int quantidadeDia) {
         //consumo em W/h.
-        double consumoWH = calculoConsumo(potencia,hora);
+        double consumoWH = calculoConsumo(potencia, hora);
 
         //consumo em Wh/dia
         this.consumoPorDia = consumoWH * quantidadeDia;
@@ -28,7 +31,7 @@ public class Calculo {
 
     public double calculoConsumoMes(double potencia, int hora, int quantidadeMes) {
         //consumo em W/h.
-        double consumoWH = calculoConsumo(potencia,hora);
+        double consumoWH = calculoConsumo(potencia, hora);
 
         //consumo por mês em Wh/mês
         this.consumoPorMes = consumoWH + (MES * quantidadeMes);
