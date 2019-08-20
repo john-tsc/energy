@@ -10,22 +10,46 @@ O QUE O PROGRAMA DEVERÁ FAZER
 		-Por hora
 		-Por dia.
 		-Por semana.
-		-Por mês (todo mês será mês comercial (todos os meses possuião 30 dias)).
+		-Por mês (todo mês será mês comercial (todos os meses possuirão 30 dias)).
 		-Por ano(todos os anos possuirão 365 dias).
 		
 	-Mostrar também o consumo total de todos os equipamentos:
 		-Por hora.
 		-Por dia.
 		-Por semana.
-		-Por mês (todo mês será mês comercial (todos os meses possuião 30 dias)).
+		-Por mês (todo mês será mês comercial (todos os meses possuirão 30 dias)).
 		-Por ano(todos os anos possuirão 365 dias).
 
-	-Representar a saída em valores monetários (Real (R$)) e em Watts.
+	-Mostrar o consumo em R$.
+	-Mostrar o consumo em W.
 
--------------------------------------------
+____________________________________________
 Fórmula para calcular o consumo de energia:
-Para calcular o consumo de um equipamento multiplique sua potência (W) pelo tempo de funcionamento em horas.
-consumo = W.h
-		=Wh
-Next: transform to Kwh.
-consumo = W.h/1000.
+Para efetuar o cálculo deve-se 
+(1) primeiramente converter o valor da potência (W) para kW. 
+	-Para converter basta dividir o valor (w) por 1000.
+	-5500W  = 5,5kW
+
+(2) Em seguida é preciso converter o tempo para horas, se for necessário.
+	-Ex: 15 min = 15/60 
+		 15 = 0,25 horas
+		 onde 60 são os minutos (1 hora).
+
+(3) Tendo todos os valores convertidos basta agora fazer o cálculo para determinar quantos Watts são consumidos por hora.
+	-fórmula para efetuar este cálculo:
+	E = kW x variação do tempo
+
+(4) Tendo o valor de consumo em kWh basta saber quanto é o valor cobrado pela companhia de energia elétrica e multiplicar pelo o valor encontrado.
+____________________________________________
+
+			
+	
+
+
+
+
+
+
+
+
+
